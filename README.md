@@ -32,19 +32,19 @@ A fully responsive, AI-generated marketing website for **FORGE Athletic Co.**, a
 
 ## ⭐ Features Section
 
-![Features Section](Screenshots/Program.png)
+![Program Section](Screenshots/Program.png)
 
 ---
 
 ## 💳 Membership Section
 
-![Pricing](Screenshots/Mmembership.png)
+![Membership](Screenshots/Membership.png)
 
 ---
 
 ## 📞 Contact Section
 
-![Contact](Screenshots/contact.png)
+![Contact](Screenshots/Contact.png)
 
 ---
 
